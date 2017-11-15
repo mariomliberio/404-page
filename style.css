@@ -3,23 +3,36 @@ head{
 }
 
 body{
-
+font: 'Arial';
+font-style: normal;
+font-stretch: condensed;
+font-weight: bold;
+font-feature-settings: normal;
+margin:auto;
+background-image: "computersaysna";
+background-repeat: repeat;
 
 }
 
 
 h1{
+}
 
+table{
+  padding: 70px 0;
+     border: 3px solid blue;
+     text-align: center
 
 }
 
-h2{
 
-
-
-}
 
 p{
+text-align: center;
+font-size: 32px
+line-height: 1.2em;
+}
 
-  
+img{
+display: inline;
 }
